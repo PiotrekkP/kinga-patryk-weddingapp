@@ -1,0 +1,97 @@
+  @media only screen and (max-width: 480px) {
+    .img-map-style{
+      border-radius: 15px;
+      width: 85vw;
+      height: auto;
+      margin-top: 6vh;
+      margin-bottom: 6vh;
+    }
+    .p-site-title{
+        margin-left: 0vw;
+        margin-top: 15vh;
+        font-size: 3vh;
+        padding-bottom: 2vh;
+    }
+    
+    .p-map-left-info {
+        height: 3vh;
+        width: 75vw;
+        border-radius: 50vw;
+        background-color: rgb(214,160,180);
+        color: white;
+        font-size: 2vh;
+        font-weight: 400;
+        padding-top: 0.5vh;
+        padding-bottom: 0.5vh;
+        text-indent: -37.5vw;
+        line-height: 3vh;
+        margin-right: 15vw;
+        margin-top: 5vh;
+    }
+    
+    .p-map-right-links {
+        height: 3vh;
+        width: 55vw;
+        border-radius: 50vw;
+        background-color: rgb(239,209,217);
+        color: black;
+        font-size: 2vh;
+        font-weight: 400;
+        padding-top: 0.5vh;
+        padding-bottom: 0.5vh;
+        line-height: 3vh;
+        margin-left: 35vw;
+        margin-top: -6vh;
+        text-decoration: underline;
+    }
+    
+    .p-map-right-links2 {
+        height: 3vh;
+        width: 55vw;
+        border-radius: 50vw;
+        background-color: rgb(239,209,217);
+        color: black;
+        font-size: 2vh;
+        font-weight: 400;
+        padding-top: 0.5vh;
+        padding-bottom: 0.5vh;
+        line-height: 3vh;
+        margin-left: 35vw;
+        margin-top: 3vh;
+        text-decoration: underline;
+    }
+    
+    .content-container-md{
+        background: url('wedding-plan-background_full.jpg');
+        overflow: hidden;
+        background-size: cover;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+      .p-contact-details-kinga-md{
+        width: 100vw;
+        height: 4vh;
+        background-color: rgb(214,160,180);
+        color:white;
+        font-size: 2vh;
+        text-align: left;
+        text-indent: 15vw;
+        margin-top: 8vh;
+        padding-top: 3.5vh;
+      }
+      .p-contact-details-patryk-md{
+        width: 100vw;
+        height: 4vh;
+        background-color: rgb(214,160,180);
+        color:white;
+        font-size: 2vh;
+        text-align: left;
+        text-indent: 15vw;
+        padding-bottom: 2vh;
+        margin-bottom: 0vh;
+        margin-top: -2vh;
+      }
+    }
+    

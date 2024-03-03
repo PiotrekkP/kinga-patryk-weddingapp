@@ -1,13 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import './More.css';
+import './AdditionalEvents.css';
+import './AppearanceConfirmation.css';
+import './WeddingPlan.css';
+import './Home.css';
+import './GuestsTransport.css';
+import './SiteHeader.css';
+import './MapaDojazdu.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <App/>
   </React.StrictMode>
 );
 

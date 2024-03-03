@@ -1,0 +1,205 @@
+.p-appearance-confirmation-left-info {
+  height: 3vh;
+  width: 75vw;
+  border-radius: 50vw;
+  background-color: rgb(112,146,88);
+  color: white;
+  font-size: 2vh;
+  font-weight: 400;
+  padding-top: 0.5vh;
+  padding-bottom: 0.5vh;
+  text-indent: -37.5vw;
+  line-height: 3vh;
+  margin-right: 15vw;
+}
+
+.p-appearance-confirmation-left-info-half {
+  height: 3vh;
+  width: 55vw;
+  border-radius: 50vw;
+  background-color: rgb(112,146,88);
+  color: white;
+  font-size: 2vh;
+  font-weight: 400;
+  padding-top: 0.5vh;
+  padding-bottom: 0.5vh;
+  line-height: 3vh;
+  margin-right: 35vw;
+  margin-top: 5vh;
+  margin-bottom: 2vh;
+  text-indent: -5vw;
+}
+
+.p-appearance-confirmation-left-info-half-t {
+  height: 3vh;
+  width: 90vw;
+  border-radius: 50vw;
+  background-color: rgb(112,146,88);
+  color: white;
+  font-size: 2vh;
+  font-weight: 400;
+  padding-top: 0.5vh;
+  padding-bottom: 0.5vh;
+  line-height: 3vh;
+  margin-right: 0vw;
+  margin-top: 5vh;
+  margin-bottom: 2vh;
+  text-indent: -5vw;
+}
+
+.p-appearance-confirmation-right-details {
+  height: 3vh;
+  width: 55vw;
+  border-radius: 50vw;
+  background-color: rgb(178,186,119);
+  color: black;
+  font-size: 2vh;
+  font-weight: 400;
+  padding-top: 0.5vh;
+  padding-bottom: 0.5vh;
+  line-height: 3vh;
+  margin-left: 35vw;
+  margin-top: -6vh;   
+}
+
+.content-container-ac{
+    background: url('additional-events-background.PNG');
+    overflow: hidden;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.p-contact-details-kinga-ac{
+  width: 100vw;
+  height: 4vh;
+  background-color: rgb(112,146,88);
+  color:white;
+  font-size: 2vh;
+  text-align: left;
+  text-indent: 15vw;
+  margin-top: 8vh;
+  padding-top: 3.5vh;
+  }
+  .p-contact-details-patryk-ac{
+    width: 100vw;
+    height: 4vh;
+    background-color: rgb(112,146,88);
+    color:white;
+    font-size: 2vh;
+    text-align: left;
+    text-indent: 15vw;
+    padding-bottom: 2vh;
+    margin-bottom: 0vh;
+    margin-top: -2vh;
+  }
+
+  .select-diet{
+    border: none;
+    width: 55vw;
+    height: 4vh;
+    margin-left: 35vw;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    border-radius: 50vw;
+    background-color: rgb(178,186,119);
+    color: black;
+    font-size: 2vh;
+    font-weight: 400;
+    font-family: 'Philosopher';
+    margin-top: -6vh;
+    line-height: 3vh;
+    text-align-last: center;
+}
+.option-diet{
+    color:black;
+    text-align: center;
+}
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+  }
+  select:focus{
+    border: none;
+    outline: none;
+  }
+
+  .p-btn-yn{
+    height: 3vh;
+    width: 10vw;
+    border-radius: 50vw;
+    background-color: rgb(178,186,119);
+    color: black;
+    font-size: 2vh;
+    font-weight: 400;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    line-height: 3vh;
+    margin-left: 10vw;
+    margin-top: -6vh;
+  }
+  .p-btn-yn-t{
+    height: 3vh;
+    width: 10vw;
+    border-radius: 50vw;
+    background-color: rgb(178,186,119);
+    color: black;
+    font-size: 2vh;
+    font-weight: 400;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    line-height: 3vh;
+    margin-left: 80vw;
+    margin-top: -6vh;
+  }
+  .p-btn-number1{
+    height: 3vh;
+    width: 10vw;
+    border-radius: 50vw;
+    background-color: rgb(178,186,119);
+    color: black;
+    font-size: 2vh;
+    font-weight: 400;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    line-height: 3vh;
+    margin-left: 35vw;
+    margin-top: -6vh;
+  }
+
+  .p-btn-number2{
+    height: 3vh;
+    width: 10vw;
+    border-radius: 50vw;
+    background-color: rgb(178,186,119);
+    color: black;
+    font-size: 2vh;
+    font-weight: 400;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    line-height: 3vh;
+    margin-left: 60vw;
+    margin-top: -6vh;
+  }
+
+
+  .p-btn-wyslij{
+    height: 3vh;
+    width: 20vw;
+    border-radius: 50vw;
+    background-color: rgb(112,146,88);
+    color: white;
+    font-size: 2vh;
+    font-weight: 400;
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    line-height: 3vh;
+    margin-left: 0vw;
+    margin-top: 5vh;
+  }
+
+  .p-btn-wyslij:hover{
+    background-color: rgb(178,186,119);
+  }

@@ -1,0 +1,58 @@
+@media only screen and (min-width: 480px) {
+    /* styles for devices with a minimum screen width of 480px */
+    }
+    
+    @media only screen and (max-width: 480px) {
+    /* styles for devices with a maximum screen width of 480px */
+    
+
+.content-container-home{
+    background: url('kphom1.jpeg');
+    overflow: hidden;
+    background-size: contain;
+    margin-top: 10vh;
+}
+
+.button-confirm-appearance{
+    background-color: rgb(178,186,119);
+    color: black;
+    padding-top: 2.5vh;
+    padding-bottom: 2.5vh;
+    width: 75vw;
+    border-radius: 4vw;
+    border: none;
+    font-family: 'Philosopher';
+    font-size: 2.5vh;
+    margin-top: 48vh;
+    margin-bottom: 8vh;
+}
+.button-confirm-appearance:hover{
+    background-color: rgb(112,146,88);
+    color: white;
+}
+
+.p-contact-details-kinga-home{
+    width: 100vw;
+    height: 4vh;
+    background-color: rgb(112,146,88);
+    color:white;
+    font-size: 2vh;
+    text-align: left;
+    text-indent: 15vw;
+    margin-top: 15vh;
+    padding-top: 3.5vh;
+  }
+  .p-contact-details-patryk-home{
+    width: 100vw;
+    height: 4vh;
+    background-color: rgb(112,146,88);
+    color:white;
+    font-size: 2vh;
+    text-align: left;
+    text-indent: 15vw;
+    padding-bottom: 2vh;
+    margin-bottom: 0vh;
+    margin-top: -2vh;
+  }
+    }
+
