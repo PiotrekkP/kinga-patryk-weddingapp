@@ -1,4 +1,3 @@
-import SiteHeaderHome from '../components/SiteHeaderHome';
 import SiteHeader from '../components/SiteHeader';
 import React, {useEffect} from 'react';
 import { useNavigate } from 'react-router-dom';

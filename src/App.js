@@ -2,7 +2,7 @@ import './App.css';
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
-import PlanWesela from './pages/PlanWesela2';
+//import PlanWesela from './pages/PlanWesela2';
 import WeddingPlan from './pages/WeddingPlan';
 import MapaDojazdu from './pages/MapaDojazdu';
 import AppearanceConfirmation from './pages/AppearanceConfirmation';
@@ -15,6 +15,7 @@ function App() {
     <div className="App">
           <BrowserRouter>
       <Routes>
+        <Route path="/" element={<Home/>}/>
         <Route path="/home" element={<Home/>}/>
         <Route path="/planwesela" element={<WeddingPlan />} />
         <Route path="/mapadojazdu" element={<MapaDojazdu />} />

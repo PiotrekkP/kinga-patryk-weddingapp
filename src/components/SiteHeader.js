@@ -31,7 +31,7 @@ export default function SiteHeader() {
     <div ref={menuRef} className='menu-container'>
         <h1 className='site-header-h1' onClick={()=> handleDropdownItemClick('/home')}>K & P</h1>
         <div className='menu-trigger' onClick={()=>{setOpen(!open)}}>
-          <img src={burger}></img>
+          <img src={burger} alt='burger-menu'></img>
         </div>
         <div className={`dropdown-menu ${open? 'active' : 'inactive'}`}>
           <ul>
@@ -49,7 +49,7 @@ export default function SiteHeader() {
 function DropdownItem(props){
     return(
       <li className = 'dropdownItem' onClick={props.onClick}>
-        <a>{props.text}</a>
+        <a href=''>{props.text}</a>
       </li>
     );
   }

@@ -5,11 +5,6 @@ const More = () => {
 useEffect(() => {
     window.scrollTo(0,0);
 })
-const contentContainerStyle = {
-    display: 'flex',
-    flexDirection: 'column',
-    alignItems: 'center',
-  };
     return (
     <div className="content-container-m">
         <SiteHeader></SiteHeader>
