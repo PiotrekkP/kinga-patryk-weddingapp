@@ -100,6 +100,15 @@
         height: 100vh; /* 100% wysokości widoku */
         overflow: hidden; /* Zapewnia, że obrazy nie będą wychodziły poza obszar kontenera */
       }
+      .b-drop{
+        background-color: #fff;
+        color: black;
+        margin:auto;
+        padding-top: 0.5vh;
+        padding-bottom: 0.5vh;
+        padding-left: 30vw;
+        padding-right: 30vw;
+      }
   }
 
   .menu-container{
