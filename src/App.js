@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { Router, Routes, Route } from 'react-router-dom';
 import Home from './pages/Home';
 //import PlanWesela from './pages/PlanWesela2';
 import WeddingPlan from './pages/WeddingPlan';
@@ -13,7 +13,7 @@ import More from './pages/More';
 function App() {
   return (
     <div className="App">
-          <BrowserRouter>
+          <Router>
       <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/home" element={<Home/>}/>
@@ -24,7 +24,7 @@ function App() {
         <Route path='/transport' element={<GuestsTransport/>}/>
         <Route path='/wiecej' element={<More/>}/>
       </Routes>
-    </BrowserRouter>
+    </Router>
     </div>
   );
 }
