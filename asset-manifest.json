@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/PiotrekkP/kinga-patryk-weddingapp/static/css/main.25b1ae89.css",
+    "main.js": "/PiotrekkP/kinga-patryk-weddingapp/static/js/main.f0868cf2.js",
+    "static/js/592.f61451c0.chunk.js": "/PiotrekkP/kinga-patryk-weddingapp/static/js/592.f61451c0.chunk.js",
+    "static/media/more-background.png": "/PiotrekkP/kinga-patryk-weddingapp/static/media/more-background.bbb4b3964d4124100f7d.png",
+    "static/media/map-hall.PNG": "/PiotrekkP/kinga-patryk-weddingapp/static/media/map-hall.0eb20567038ecc9ef8ad.PNG",
+    "static/media/map-church.PNG": "/PiotrekkP/kinga-patryk-weddingapp/static/media/map-church.f59803154f72f0e6649f.PNG",
+    "static/media/additional-events-background.PNG": "/PiotrekkP/kinga-patryk-weddingapp/static/media/additional-events-background.229fa667a829353e6f39.PNG",
+    "static/media/wedding-plan-background_full.jpg": "/PiotrekkP/kinga-patryk-weddingapp/static/media/wedding-plan-background_full.c5a904bc7ee3a090361d.jpg",
+    "static/media/kphom1.jpeg": "/PiotrekkP/kinga-patryk-weddingapp/static/media/kphom1.69dbc3c7a194621ab8fe.jpeg",
+    "index.html": "/PiotrekkP/kinga-patryk-weddingapp/index.html",
+    "main.25b1ae89.css.map": "/PiotrekkP/kinga-patryk-weddingapp/static/css/main.25b1ae89.css.map",
+    "main.f0868cf2.js.map": "/PiotrekkP/kinga-patryk-weddingapp/static/js/main.f0868cf2.js.map",
+    "592.f61451c0.chunk.js.map": "/PiotrekkP/kinga-patryk-weddingapp/static/js/592.f61451c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25b1ae89.css",
+    "static/js/main.f0868cf2.js"
+  ]
+}
